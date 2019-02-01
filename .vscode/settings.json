@@ -1,0 +1,4 @@
+{
+    "http.proxy": "http://w3p2.atos-infogerance.fr:8080/",
+    "http.proxySupport": "on"
+}
